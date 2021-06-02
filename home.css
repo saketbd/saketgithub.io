@@ -1,0 +1,60 @@
+body{ background:#333;}
+.a
+{float:left; width:1340px; border:2px solid #000;}
+.b
+{float:left; height:80px; width:1000px; margin-left:170px;}
+.c
+{float:left; font-size:50px; color:#804040; margin-left:350px; margin-top:20px; text-shadow:5px 5px 5px #FFFFFF;}
+.d
+{float:left; height:50px; width:1000px; margin-left:170px; margin-top:20px;}
+.e
+{float:left; height:50px; width:1000px; background:#191919; border-top-left-radius:20px; border-bottom-right-radius:20px; text-align:center;}
+.f
+{float:left; color:#FFF; font-size:20px; text-decoration:none; margin-left:25px; text-align:center;}
+.g
+{width:1000px; color:#999; margin-top:20px; float:left; margin-left:170px;}
+.h
+{float:left; height:400px; width:1000px; margin-top:20px; margin-left:170px;}
+.i
+{float:left; height:400px; width:1000px; border-radius:20px;}
+.main1{float:left; height:400px; width:1000px; margin-left:170px; margin-top:20px;}
+.aa{float:left; height:150px; width:192px; border-radius:5px;}
+.ab{float:left; text-decoration:none; color:#FFF;}
+.bb{float:left; height:150px; width:192px; margin-left:10px; border-radius:5px;}
+.cc{float:left; margin-top:160px; font-size:16px; margin-left:-150px; border-radius:5px;}
+.dd{float:left; height:150px; width:192px; margin-top:50px;  border-radius:5px;}
+.da{float:left; margin-top:210px; font-size:16px; margin-left:-150px;}
+.ee{float:left; height:150px; width:192px; margin-left:10px; margin-top:50px; border-radius:5px;}
+.add{float:left; margin-top:210px; font-size:16px; margin-left:-110px;}
+.abc
+{visibility:hidden; position:absolute; margin-left:18px; background:#666; margin-top:35px; color:#FFF; width:200px; font-size:20px;}
+.z{float:left; text-decoration:none; color:#FFF; text-align:center;}
+
+.main
+{float:left; height:330px; width:1000px; margin-left:170px; margin-top:20px;}
+.j
+{float:left; height:330px; width:33%;}
+.hi
+{float:left; font-size:20px; margin-left:95px; color:#000; margin-top:50px;}
+.k
+{float:left; height:150px; margin-top:30px; margin-left:30px;}
+.hr{float:left; text-decoration:none;}
+.k1{float:left; width:180px; height:25px;}
+.k2{float:left; width:80px; height:25px;}
+.k3{float:left; width:80px; height:25px; margin-left:20px;}
+.sec
+{float:left; height:330px; width:34%;}
+.lis{float:left; margin-top:70px; margin-left:-135px;}
+.list{float:left; margin-top:50px; margin-left:-235px;}
+.lh{float:left; width:80%; color:#096; margin-top:35px;}
+.thrd
+{float:left; height:330px; width:33%;}
+.n{float:left; color:#FFF; text-decoration:none;}
+.n:hover{float:left; color:#00F; text-decoration:underline;}
+.o{float:left; width:80%; color:#096; margin-top:15px;}
+.p{float:left; height:150px; width:1000px; margin-left:170px; margin-top:20px;}
+.q{float:left; height:150px; width:1000px; }
+.r{ float:left; height:150px; width:185px; border-radius:10px; margin-left:10px;}
+.s{float:left; height:50px; width:1000px; margin-left:170px; margin-top:20px;}
+.t{float:left; font-size:16px; color:#000; margin-left:320px; margin-top:5px;}
+.u{float:left; text-decoration:none; color:#000; margin-left:150px; margin-top:-18px;}

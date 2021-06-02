@@ -1,0 +1,24 @@
+body{ background:#333;}
+.a
+{float:left; width:1340px; border:2px solid #000;}
+.b
+{float:left; height:80px; width:1000px; margin-left:170px;}
+.c
+{float:left; font-size:50px; color:#804040; margin-left:350px; margin-top:20px; text-shadow:5px 5px 5px #FFFFFF;}
+.d
+{float:left; height:50px; width:1000px; margin-left:170px; margin-top:20px;}
+.e
+{float:left; height:50px; width:1000px; background:#191919; border-top-left-radius:20px; border-bottom-right-radius:20px;}
+.f
+{float:left; color:#FFF; font-size:20px; text-decoration:none; margin-left:25px;}
+.g
+{width:1000px; color:#999; margin-top:20px; float:left; margin-left:170px;}
+.main{float:left; width:1000px; margin-left:170px; margin-top:20px;}
+.l{float:left; margin-top:40px; margin-left:20px; color:#C00;}
+.h{float:left; height:200px; width:250px; margin-left:30px; margin-top:30px;}
+.i{float:left; font-size:20px; margin-top:30px; margin-left:10px; color:#FFF; text-decoration:underline;}
+.j{float:left; border:#666 solid 1px; width:800px; margin-left:100px; color:#FFF;}
+.k{float:left; margin-left:350px; width:80px; margin-top:10px; background:#06F;}
+.s{float:left; height:50px; width:1000px; margin-left:170px; margin-top:20px;}
+.t{float:left; font-size:16px; color:#000; margin-left:320px; margin-top:5px;}
+.u{float:left; text-decoration:none; color:#000; margin-left:150px; margin-top:-18px;}

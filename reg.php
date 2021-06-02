@@ -1,0 +1,23 @@
+<?php
+$a=$_POST['t1'];
+$b=$_POST['t2'];
+$c=$_POST['t3'];
+$d=$_POST['t4'];
+$e=$_POST['t5'];
+$f=$_POST['t6'];
+$g=$_POST['t7'];
+$h=$_POST['t8'];
+$i=$_POST['t9'];
+$dat=$g."/".$h."/".$i;
+$j=$_POST['t10'];
+$k=$_POST['t11'];
+$l=$_POST['t12'];
+$m=$_POST['t13'];
+$n=$_POST['t14'];
+$img=$_FILES['file']['name'];
+$img2=$_FILES['file']['tmp_name'];
+include("connect.php");
+mysql_query("insert into reg values('','$a','$b','$c','$d','$e','$f','$dat','$j','$k','$l','$m','$n','$img')")or die("error3=".mysql_error());
+move_uploaded_file($img2,"upload/".$img);
+header("location:login.php");
+?>

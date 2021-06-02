@@ -1,0 +1,32 @@
+body{ background:#333;}
+.a
+{float:left; width:1340px; border:2px solid #000;}
+.b
+{float:left; height:80px; width:1000px; margin-left:170px;}
+.c
+{float:left; font-size:50px; color:#804040; margin-left:350px; margin-top:20px; text-shadow:5px 5px 5px #FFFFFF;}
+.d
+{float:left; height:50px; width:1000px; margin-left:170px; margin-top:20px;}
+.e
+{float:left; height:50px; width:1000px; background:#191919; border-top-left-radius:20px; border-bottom-right-radius:20px;}
+.f
+{float:left; color:#FFF; font-size:20px; text-decoration:none; margin-left:25px;}
+.g
+{width:1000px; color:#999; margin-top:20px; float:left; margin-left:170px;}
+.h{float:left; margin-top:20px; margin-left:170px; width:1000px;}
+.i{float:left; width:56%;}
+.j{float:left; color:#FFF; font-size:24px; margin-left:210px; margin-top:30PX;}
+.k{float:left; margin-left:120px; margin-top:20px; height:420px; color:#FFF; width:56%; font-size:20px;}
+.k1{float:left; width:180px; height:25px;}
+.k2{float:left; width:120px; height:40px; margin-left:40px; border-radius:5px;}
+.m{float:left; margin-left:30px; margin-top:90px; height:200px;}
+.n{float:left; width:34%;}
+.o{float:left; height:300px; width:100%; margin-top:110px; border-radius:15px; margin-left:100px;}
+.p{float:left; height:400px; width:1000px; margin-left:170px; margin-top:20px;}
+.q{float:left; height:400px; width:66%;}
+.r{float:left; margin-left:30px; margin-top:30px; font-size:16px; color:#FFF;}
+.s{float:left; height:400px; width:34%;}
+.t{float:left; height:300px; width:100%; margin-top:50px; border-radius:15px;}
+.u{float:left; height:50px; width:1000px; margin-left:170px; margin-top:20px;}
+.v{float:left; font-size:16px; color:#000; margin-left:320px; margin-top:5px;}
+.w{float:left; text-decoration:none; color:#000; margin-left:150px; margin-top:-18px;}

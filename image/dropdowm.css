@@ -1,0 +1,7 @@
+table
+{width:1145px; height:400px; margin-left:100px;}
+.a{height:400px; width:1145px;}
+.b{height:100px; width:1145px; background:#03F;}
+.d{visibility:hidden; position:absolute; background:#999; border-radius:5px; height:100px; width:150px; margin-left:0px;}
+.c{text-decoration:none; color:#000; border-radius:5px;}
+.c:hover{color:#999; background:#06F; border-radius:5px;}
